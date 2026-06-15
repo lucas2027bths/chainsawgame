@@ -1,1 +1,1 @@
-Animate script is a core script from Roblox's default scriptsh
+Animate script is a core script from Roblox's default scripts
